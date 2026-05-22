@@ -15,7 +15,7 @@ Library Spec Entry  →  Thinker Profile  →  ADL YAML  →  Rendered Agent Pro
 
 ## Profiles
 
-29 thinker profiles across 13 intellectual traditions.
+29 thinker profiles across 18 intellectual traditions.
 
 ### Greek Classical & Pre-Socratic
 
