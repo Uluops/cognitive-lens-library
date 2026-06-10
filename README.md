@@ -15,7 +15,7 @@ Library Spec Entry  →  Thinker Profile  →  ADL YAML  →  Rendered Agent Pro
 
 ## Profiles
 
-29 thinker profiles across 18 intellectual traditions.
+30 thinker profiles across 19 intellectual traditions.
 
 ### Greek Classical & Pre-Socratic
 
@@ -95,6 +95,12 @@ Library Spec Entry  →  Thinker Profile  →  ADL YAML  →  Rendered Agent Pro
 |---------|-----------|---------|--------|
 | [Bateson](thinkers/bateson-thinker-profile-v0_1_0.md) | Cybernetics / Systems Theory | 0.1.0 | Draft |
 | [Meadows](thinkers/meadows-thinker-profile-v0_1_0.md) | Systems Dynamics / Sustainability | 0.1.0 | Draft |
+
+### Modern / Philosophy of Mind
+
+| Profile | Tradition | Version | Status |
+|---------|-----------|---------|--------|
+| [Krishnamurti](thinkers/krishnamurti-thinker-profile-v0_1_0.md) | Philosophy of Mind | 0.1.0 | Draft |
 
 ## Profile Structure
 
