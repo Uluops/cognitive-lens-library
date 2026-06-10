@@ -590,7 +590,7 @@ The lens is well-placed *after* lenses that establish purpose and genuine struct
 
 ## Sources & Grounding
 
-Curated primary/authoritative citations behind the encoding. Quotes are kept out of the analytical body by design (see D6); they are recorded here as grounding. Full research notes with authority levels and flagged/unverified items are in `ramblings/2026-06-09--krishnamurti-research-epistemic.md` and `ramblings/2026-06-09--krishnamurti-research-method-insight.md`.
+Curated primary/authoritative citations behind the encoding. Quotes are kept out of the analytical body by design (see D6); they are recorded here as grounding. Fuller research notes with authority levels and flagged/unverified items (repo study + plan, epistemic-machinery research, anti-method/insight research) are preserved in a public gist: <https://gist.github.com/gwpl/339c7a132cab3cc7a3aff517c54b07be>.
 
 - **"Truth is a pathless land"** — Dissolution of the Order of the Star in the East, Ommen, 3 August 1929. Official text: jkrishnamurti.org (dissolution speech). Grounds Axiom 4 and the Historical Note.
 - **"The observer is the observed" / "the analyser is the analysed"** — *Freedom from the Known* ("The Observer Is Also an Image"), Krishnamurti Foundation Trust (kfoundation.org); Public Talk, Brockwood Park, 5 September 1976 (jkrishnamurti.org). Grounds Axiom 1 and Move 2.
@@ -618,7 +618,7 @@ Curated primary/authoritative citations behind the encoding. Quotes are kept out
 - Role-specific elaborations for Explorer (primary) and Analyst (secondary), paralleling Nāgārjuna's role architecture; 4 Explorer auto-fail conditions (AF-E01–AF-E04) and 5 Analyst auto-fail conditions (AF-A01–AF-A05)
 - 8 design decisions recorded (D1–D8), including the anti-method honesty decision (D4), the standalone non-Theosophical filing (D7), and the community-contribution / proposed-library-entry decision (D8)
 - Composition guidance for Nāgārjuna parallel reading, Meadows/Bateson and Aristotle adversarial dialectics, and Hume sequential pipeline; blind-spot coverage for FS-1 (Aristotle/Meadows), FS-2 (Aristotle/Meadows), FS-3 (Hume), FS-4 (Popper); blind spots covered for Descartes (the separate thinking subject), Meadows/Bateson (control-as-solution overreach), and Hegel (thought-as-engine)
-- Sources & Grounding section with curated primary citations (jkrishnamurti.org, Krishnamurti Foundation Trust, the K–Bohm dialogues); full cited research notes retained under ramblings/
+- Sources & Grounding section with curated primary citations (jkrishnamurti.org, Krishnamurti Foundation Trust, the K–Bohm dialogues); fuller cited research notes preserved in a public gist (linked in that section)
 
 ---
 
