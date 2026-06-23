@@ -15,7 +15,7 @@ Library Spec Entry  →  Thinker Profile  →  ADL YAML  →  Rendered Agent Pro
 
 ## Profiles
 
-29 thinker profiles across 18 intellectual traditions.
+32 thinker profiles across 21 intellectual traditions, plus 1 creative lens.
 
 ### Greek Classical & Pre-Socratic
 
@@ -45,7 +45,9 @@ Library Spec Entry  →  Thinker Profile  →  ADL YAML  →  Rendered Agent Pro
 | [Laozi](thinkers/laozi-thinker-profile-v0_1_0.md) | Daoist | 0.1.0 | Draft |
 | [Sunzi](thinkers/sunzi-thinker-profile-v0_1_0.md) | Military Strategy | 0.1.0 | Draft |
 | [Wang Yangming](thinkers/wang-yangming-thinker-profile-v0_1_0.md) | Neo-Confucian / School of Mind | 0.1.0 | Draft |
+| [Zhu Xi](thinkers/zhu-xi-thinker-profile-v0_1_0.md) | Neo-Confucian / School of Principle | 0.1.0 | Draft |
 | [Zhuangzi](thinkers/zhuangzi-thinker-profile-v0_1_0.md) | Daoist | 0.1.0 | Draft |
+| [Mòzǐ](thinkers/mozi-thinker-profile-v0_1_0.md) | Mohism / Impartial Consequentialism | 0.1.0 | Draft |
 
 ### Indian Philosophical
 
@@ -66,6 +68,7 @@ Library Spec Entry  →  Thinker Profile  →  ADL YAML  →  Rendered Agent Pro
 
 | Profile | Tradition | Version | Status |
 |---------|-----------|---------|--------|
+| [Bacon](thinkers/bacon-thinker-profile-v0_1_0.md) | Empiricism / Scientific Method | 0.1.0 | Draft |
 | [Hume](thinkers/hume-thinker-profile-v0_1_0.md) | Scottish Enlightenment / Empiricism | 0.1.0 | Draft |
 
 ### Philosophy of Science
@@ -95,6 +98,14 @@ Library Spec Entry  →  Thinker Profile  →  ADL YAML  →  Rendered Agent Pro
 |---------|-----------|---------|--------|
 | [Bateson](thinkers/bateson-thinker-profile-v0_1_0.md) | Cybernetics / Systems Theory | 0.1.0 | Draft |
 | [Meadows](thinkers/meadows-thinker-profile-v0_1_0.md) | Systems Dynamics / Sustainability | 0.1.0 | Draft |
+
+## Creative Lenses
+
+Cognitive operations developed through *making* — design, composition, craft — rather than verbal-propositional reasoning. Unlike the thinker profiles, a creative lens carries a load-bearing **Medium Translation** step: the operation must survive the move from its native medium to software artifacts without collapsing into aesthetic decoration. Creative lenses follow the [Creative Lens Profile Specification](creatives/creative-lens-profile-spec-v0_1_0.md), a sibling of the Thinker Profile Spec.
+
+| Profile | Native Medium | Tradition | Version | Status |
+|---------|---------------|-----------|---------|--------|
+| [Dieter Rams](creatives/dieter-rams-creative-lens-profile-v0_1_0.md) | Industrial Product Design | German Modernism / Braun School | 0.1.0 | Draft |
 
 ## Profile Structure
 
