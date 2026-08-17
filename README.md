@@ -15,7 +15,7 @@ Library Spec Entry  →  Thinker Profile  →  ADL YAML  →  Rendered Agent Pro
 
 ## Profiles
 
-32 thinker profiles across 21 intellectual traditions, plus 1 creative lens.
+35 thinker profiles across 21 intellectual traditions, plus 1 creative lens.
 
 ### Greek Classical & Pre-Socratic
 
@@ -55,6 +55,12 @@ Library Spec Entry  →  Thinker Profile  →  ADL YAML  →  Rendered Agent Pro
 |---------|-----------|---------|--------|
 | [Nagarjuna](thinkers/nagarjuna-thinker-profile-v0_1_0.md) | Madhyamaka Buddhism | 0.1.0 | Draft |
 
+### Islamic Golden Age
+
+| Profile | Tradition | Version | Status |
+|---------|-----------|---------|--------|
+| [Ibn Khaldūn](thinkers/ibn-khaldun-thinker-profile-v0_2_0.md) | Historical Sociology / ʿIlm al-ʿUmrān | 0.2.0 | Draft |
+
 ### Continental & German Idealism
 
 | Profile | Tradition | Version | Status |
@@ -63,6 +69,13 @@ Library Spec Entry  →  Thinker Profile  →  ADL YAML  →  Rendered Agent Pro
 | [Hegel](thinkers/hegel-thinker-profile-v0_1_0.md) | German Idealism | 0.1.0 | Draft |
 | [Nietzsche](thinkers/nietzsche-thinker-profile-v0_1_0.md) | Post-Hegelian | 0.1.0 | Draft |
 | [Machiavelli](thinkers/machiavelli-thinker-profile-v0_1_0.md) | Renaissance Political Philosophy | 0.1.0 | Draft |
+
+### Phenomenology
+
+| Profile | Tradition | Version | Status |
+|---------|-----------|---------|--------|
+| [Husserl](thinkers/husserl-thinker-profile-v0_1_0.md) | Transcendental Phenomenology | 0.1.0 | Draft |
+| [Heidegger](thinkers/heidegger-thinker-profile-v0_2_0.md) | Fundamental Ontology / Existential Phenomenology | 0.2.0 | Draft |
 
 ### Empiricism & Enlightenment
 
