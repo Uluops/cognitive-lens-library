@@ -403,7 +403,7 @@ The Popperian methodology is a three-pass sequential analysis. Each pass applies
 Each finding includes:
 - **Finding statement** — What was observed
 - **Location** — Where in the artifact
-- **Failure code** — From the failure taxonomy (e.g., EPI-VER, SEM-VER, SEM-OMI)
+- **Failure code** — From the failure taxonomy (e.g., EPI-VER, EPI-GRN, EPI-FAL)
 - **Severity** — CRITICAL (9–10), HIGH (7–8), MEDIUM (4–6), LOW (1–3)
 - **Explanation** — Why this matters in Popperian terms
 - **Pass attribution** — Which of the three passes discovered this
